@@ -1,0 +1,10 @@
+include README.md
+include MANIFEST.in
+include LICENSE
+include pytest.ini
+include requirements.txt
+
+recursive-include src *
+
+include Pipfile
+include Pipfile.lock

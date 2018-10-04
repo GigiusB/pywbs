@@ -1,0 +1,7 @@
+VERSION = "0.2"
+NAME = "pywbs"
+AUTHOR = "Giovanni Bronzini"
+AUTHOR_EMAIL = "g.bronzini@gmail.com"
+DESCRIPTION = "Work Breakdown structures for project management"
+LICENSE = "BSD 3-Clause"
+URL = "https://github.com/GigiusB/pywbs"
